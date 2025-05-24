@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">* Programmer <br>* Engineering Student in Information Technologies and Systems<br>* Entrepreneur (Owner of Joshua Soluction & Jay Serviços)<br>* Colaborating in Central Academica Project<br><br>I Love to code!</p>
+<p align="left">* Programmer <br>* Engineering Student in Information Technologies and Systems<br>* Entrepreneur (Owner of Joshua Soluction & Jay Serviços)<br>* Colaborating in:<br> #Central Academica Project <br>#ProjectStockManager of Print4You<br>I Love to code!</p>
 
 ###
 
@@ -34,6 +34,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
 ###
