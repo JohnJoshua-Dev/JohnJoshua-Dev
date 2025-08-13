@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">* Programmer <br>* Engineering Student in Information Technologies and Systems<br>* Entrepreneur (Owner of Joshua Soluction & Jay Serviços)<br>* Colaborating in:<br> #Central Academica Project <br>#ProjectStockManager and <br>Toolkit Mobile and Web of Print4You<br>I Love to code!</p>
+<p align="left">* Programmer <br>* Engineering Student in Information Technologies and Systems<br>* Entrepreneur (Owner of Joshua Soluction & Jay Serviços)<br>* Colaborating in:<br> #Central Academica Project <br>#ProjectStockManager and <br>#Toolkit Mobile and Web of Print4You<br>I Love to code!</p>
 
 ###
 
