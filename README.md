@@ -53,3 +53,11 @@
 </div>
 
 ###
+
+---
+ 
+## 🏆 Troféus GitHub
+ 
+![](https://github-profile-trophy.vercel.app/?username=JohnJoshua-Dev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+ 
+---
