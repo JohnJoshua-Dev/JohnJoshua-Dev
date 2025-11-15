@@ -2,7 +2,15 @@
 
 ###
 
-<p align="left">* Programmer <br>* Engineering Student in Information Technologies and Systems<br>* Entrepreneur (Owner of Joshua Soluction Development & Jay Serviços)<br>* Colaborating in:<br> #Central Academica Project Colaborating as FreeLancer <br>#ProjectStockManager of Print4You <br>#Toolkit Mobile and Web of Print4You<br>#Portal Stock of Print4You<br>I Love to code!</p>
+## Programmer 
+### Engineering Student in Information Technologies and Systems 
+### Entrepreneur (Owner of Joshua Soluction Development & Jay Serviços) 
+### Projects:
+#### [Central-Academica](https://github.com/SingeloDux/Central-Academica). *Project Colaborating as FreeLancer*
+#### ProjectStockManager of Print4You *Mobile*
+#### Toolkit Mobile and Web of Print4You 
+#### Portal Stock of Print4You 
+#### Programa_We_Code_Java
 
 ###
 
