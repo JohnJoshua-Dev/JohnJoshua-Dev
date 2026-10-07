@@ -1,12 +1,12 @@
 <div align="center">
 
   # 👨‍💻 Josué Sitoe (John Joshua)
-  ### **Senior Fullstack Software Engineer · Database Administrator (DBA) · Solutions Architect**
-  <sub>5+ years designing enterprise-grade systems, high-throughput Web APIs, robust database architectures (SQL Server, PostgreSQL, MySQL), and scalable multiplatform applications.</sub>
+  ### **Software Developer | Full-Stack · .NET & Web APIs · SQL Server · Sistemas Empresariais · DBA**
+  <sub>5+ years developing enterprise systems, high-throughput Web APIs, robust database architectures (SQL Server, PostgreSQL, MySQL), and multiplatform applications.</sub>
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Senior+Fullstack+Engineer+%26+Certified+DBA;SQL+Server+%E2%80%A2+T-SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MySQL;C%23+%2F+.NET+%E2%80%A2+ASP.NET+Core+Web+APIs+%E2%80%A2+Laravel;Data+Modeling+%E2%80%A2+Stored+Procedures+%E2%80%A2+Tuning;Power+BI+%E2%80%A2+Docker+%E2%80%A2+Microservices+%E2%80%A2+Flutter)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+Full-Stack+%26+DBA;.NET+%26+Web+APIs+%E2%80%A2+SQL+Server+%E2%80%A2+Sistemas+Empresariais;C%23+%2F+.NET+%E2%80%A2+ASP.NET+Core+%E2%80%A2+Laravel+%E2%80%A2+Python;T-SQL+%E2%80%A2+Stored+Procedures+%E2%80%A2+Triggers+%E2%80%A2+Tuning;PostgreSQL+%E2%80%A2+MySQL+%E2%80%A2+Power+BI+%E2%80%A2+Docker+%E2%80%A2+Flutter)](https://git.io/typing-svg)
 
   <br/>
 
@@ -14,7 +14,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-sitoe-programmer)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuerafaelisito@gmail.com)
   [![Location](https://img.shields.io/badge/Location-Maputo%2C_Mozambique_%F0%9F%87%B2%F0%9F%87%BF-00C7B7?style=for-the-badge&logo=googlemaps&logoColor=white)](#-lets-connect--collaborate--vamos-conversar)
-  [![Status](https://img.shields.io/badge/Available_For-Fullstack_%2F_DBA_%2F_Tech_Lead_Roles-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)](#-lets-connect--collaborate--vamos-conversar)
+  [![Status](https://img.shields.io/badge/Available_For-Fullstack_%2F_DBA_%2F_Software_Engineering_Roles-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)](#-lets-connect--collaborate--vamos-conversar)
 
 </div>
 
@@ -25,10 +25,10 @@
 <div align="justify">
 
 **🇬🇧 English:**  
-Senior Fullstack Software Engineer and Certified Database Administrator (DBA - IFRS) with over **5 years of hands-on experience** developing enterprise architectures, mission-critical Web APIs, and multiplatform software. Deeply specialized in relational database engineering (**Microsoft SQL Server, PostgreSQL, MySQL**), data modeling, complex query tuning, transaction integrity (ACID), and implementing financial-grade audit trails with **T-SQL, Stored Procedures, and Triggers**. Strong backend leadership across **C# / .NET (ASP.NET Core), PHP / Laravel, Python, and Java**, alongside frontend/mobile expertise with **React, Flutter, and TypeScript**. Proven track record building operational dashboards in **Power BI** and automating workflows with **Power Automate & Copilot Studio**.
+Full-Stack Software Engineer and Certified Database Administrator (DBA - IFRS) with over **5 years of hands-on experience** developing enterprise systems, mission-critical Web APIs, and multiplatform software. Deeply specialized in relational database engineering (**Microsoft SQL Server, PostgreSQL, MySQL**), data modeling, complex query tuning, transaction integrity (ACID), and implementing financial-grade audit trails with **T-SQL, Stored Procedures, and Triggers**. Solid backend experience across **C# / .NET (ASP.NET Core), PHP / Laravel, Python, and Java**, alongside modern interfaces with **React, Flutter, and TypeScript**. Proven track record building operational dashboards in **Power BI** and automating workflows with **Power Automate & Copilot Studio**.
 
 **🇧🇷 Português:**  
-Engenheiro de Software Fullstack Sênior e Administrador de Banco de Dados Certificado (DBA - IFRS) com mais de **5 anos de experiência prática** no desenvolvimento de sistemas corporativos, plataformas Web, APIs RESTful e aplicativos multiplataforma. Forte domínio em engenharia de dados relacionais (**Microsoft SQL Server, PostgreSQL, MySQL**), modelagem de dados (DER/MER), otimização avançada de queries, integridade transacional e controle de auditoria financeira com **T-SQL, Stored Procedures e Triggers**. Sólida experiência em arquiteturas backend com **C# / .NET (ASP.NET Core), PHP / Laravel, Python e Java**, interfaces modernas com **React e Flutter**, além de relatórios analíticos em **Power BI** e automação de processos corporativos.
+Desenvolvedor de Software Full-Stack e Administrador de Banco de Dados Certificado (DBA - IFRS) com mais de **5 anos de experiência prática** no desenvolvimento de sistemas corporativos, plataformas Web, APIs RESTful e aplicativos multiplataforma. Forte domínio em engenharia de dados relacionais (**Microsoft SQL Server, PostgreSQL, MySQL**), modelagem de dados (DER/MER), otimização avançada de queries, integridade transacional e controle de auditoria financeira com **T-SQL, Stored Procedures e Triggers**. Sólida experiência em arquiteturas backend com **C# / .NET (ASP.NET Core), PHP / Laravel, Python e Java**, interfaces modernas com **React e Flutter**, além de relatórios analíticos em **Power BI** e automação de processos corporativos.
 
 </div>
 
@@ -174,7 +174,7 @@ flowchart LR
 
 <div align="center">
 
-Whether you're looking for a **Senior Fullstack Engineer**, **Database Administrator (DBA)**, or **Enterprise Systems Architect**, let's build robust solutions together!
+Whether you're looking for a **Full-Stack Software Developer**, **Database Administrator (DBA)**, or **Enterprise Systems Engineer**, let's build robust solutions together!
 
 <br/>
 
