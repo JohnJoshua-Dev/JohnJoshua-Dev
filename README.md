@@ -12,7 +12,7 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@joshuasolution.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/JohnJoshua-Dev)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://johnjoshua-dev.github.io/JosueSitoe.github.io/)
   [![Location](https://img.shields.io/badge/Available_For-Remote_%26_Global_Roles-00C7B7?style=for-the-badge&logo=airplayvideo&logoColor=white)](#-lets-connect--collaborate--vamos-conversar)
 
 </div>
@@ -166,6 +166,7 @@ Whether you're looking for a **Senior Fullstack Engineer**, **Technical Lead**, 
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johnjoshua-dev.github.io/JosueSitoe.github.io/)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@joshuasolution.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnJoshua-Dev)
