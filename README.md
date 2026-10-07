@@ -1,138 +1,150 @@
 <div align="center">
 
-  # 👨‍💻 John Joshua
-  ### **Senior Fullstack Software Engineer & Solutions Architect**
-  <sub>Transforming complex business challenges into resilient, high-performance web, mobile, and cloud architectures.</sub>
+  # 👨‍💻 Josué Sitoe (John Joshua)
+  ### **Senior Fullstack Software Engineer · Database Administrator (DBA) · Solutions Architect**
+  <sub>5+ years designing enterprise-grade systems, high-throughput Web APIs, robust database architectures (SQL Server, PostgreSQL, MySQL), and scalable multiplatform applications.</sub>
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Senior+Fullstack+Engineer+%7C+Tech+Lead;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Laravel+%E2%80%A2+Spring+Boot+%E2%80%A2+.NET+%E2%80%A2+Django;Flutter+%E2%80%A2+DevOps+%E2%80%A2+Cloud+%26+Microservices)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Senior+Fullstack+Engineer+%26+Certified+DBA;SQL+Server+%E2%80%A2+T-SQL+%E2%80%A2+PostgreSQL+%E2%80%A2+MySQL;C%23+%2F+.NET+%E2%80%A2+ASP.NET+Core+Web+APIs+%E2%80%A2+Laravel;Data+Modeling+%E2%80%A2+Stored+Procedures+%E2%80%A2+Tuning;Power+BI+%E2%80%A2+Docker+%E2%80%A2+Microservices+%E2%80%A2+Flutter)](https://git.io/typing-svg)
 
   <br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@joshuasolution.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://johnjoshua-dev.github.io/JosueSitoe.github.io/)
-  [![Location](https://img.shields.io/badge/Available_For-Remote_%26_Global_Roles-00C7B7?style=for-the-badge&logo=airplayvideo&logoColor=white)](#-lets-connect--collaborate--vamos-conversar)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johnjoshua-dev.github.io/JosueSitoe.github.io/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-sitoe-programmer)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuerafaelisito@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-Maputo%2C_Mozambique_%F0%9F%87%B2%F0%9F%87%BF-00C7B7?style=for-the-badge&logo=googlemaps&logoColor=white)](#-lets-connect--collaborate--vamos-conversar)
+  [![Status](https://img.shields.io/badge/Available_For-Fullstack_%2F_DBA_%2F_Tech_Lead_Roles-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)](#-lets-connect--collaborate--vamos-conversar)
 
 </div>
 
 ---
 
-## 📌 Executive Summary / Resumo Executivo
+## 📌 Executive Summary / Resumo Profissional
 
 <div align="justify">
 
 **🇬🇧 English:**  
-Senior Fullstack Software Engineer and Technical Founder with a proven track record of designing, building, and deploying end-to-end distributed systems, multiplatform mobile applications, and enterprise web solutions. Specialized in building clean, decoupled architectures (SOLID, Clean Architecture, DDD) across diverse ecosystems (**Node.js/TypeScript, Laravel, Spring Boot, .NET, Python, and Flutter**). Experienced in leading technical initiatives, establishing robust CI/CD pipelines, and delivering high-availability cloud solutions that align directly with business goals.
+Senior Fullstack Software Engineer and Certified Database Administrator (DBA - IFRS) with over **5 years of hands-on experience** developing enterprise architectures, mission-critical Web APIs, and multiplatform software. Deeply specialized in relational database engineering (**Microsoft SQL Server, PostgreSQL, MySQL**), data modeling, complex query tuning, transaction integrity (ACID), and implementing financial-grade audit trails with **T-SQL, Stored Procedures, and Triggers**. Strong backend leadership across **C# / .NET (ASP.NET Core), PHP / Laravel, Python, and Java**, alongside frontend/mobile expertise with **React, Flutter, and TypeScript**. Proven track record building operational dashboards in **Power BI** and automating workflows with **Power Automate & Copilot Studio**.
 
 **🇧🇷 Português:**  
-Engenheiro de Software Fullstack Sênior e Empreendedor de Tecnologia com sólida experiência no desenvolvimento de sistemas distribuídos ponta a ponta, aplicativos mobile multiplataforma e soluções corporativas escaláveis. Especialista em arquiteturas desacopladas e resilientes (SOLID, Clean Architecture, DDD) atuando nos ecossistemas **Node.js/TypeScript, Laravel, Spring Boot, .NET, Python e Flutter**. Foco comprovado em liderança técnica, automação DevOps/CI-CD e entrega de produtos de alto impacto.
+Engenheiro de Software Fullstack Sênior e Administrador de Banco de Dados Certificado (DBA - IFRS) com mais de **5 anos de experiência prática** no desenvolvimento de sistemas corporativos, plataformas Web, APIs RESTful e aplicativos multiplataforma. Forte domínio em engenharia de dados relacionais (**Microsoft SQL Server, PostgreSQL, MySQL**), modelagem de dados (DER/MER), otimização avançada de queries, integridade transacional e controle de auditoria financeira com **T-SQL, Stored Procedures e Triggers**. Sólida experiência em arquiteturas backend com **C# / .NET (ASP.NET Core), PHP / Laravel, Python e Java**, interfaces modernas com **React e Flutter**, além de relatórios analíticos em **Power BI** e automação de processos corporativos.
 
 </div>
 
 ---
 
-## 🏛️ Engineering Pillars & Architecture
+## 🗄️ Database Architecture & DBA Mastery (Bancos de Dados & DBA)
 
 ```mermaid
 flowchart LR
-    A[Frontend & Mobile<br/><b>React / Next.js / Flutter</b>] -->|REST / GraphQL / gRPC| B[API & Microservices Gateway<br/><b>Node.js / Laravel / Spring / .NET</b>]
-    B --> C[Data & Caching Layer<br/><b>PostgreSQL / MySQL / Redis</b>]
-    B --> D[Cloud & DevOps<br/><b>Docker / CI-CD / AWS / Linux</b>]
+    A[Client & Web APIs<br/><b>.NET / Laravel / React / Mobile</b>] -->|ACID Transactions & High Concurrency| B[(RDBMS Engine<br/><b>SQL Server / PostgreSQL / MySQL</b>)]
+    B --> C[T-SQL & Logic Layer<br/><b>Stored Procedures / Triggers / Views / UDFs</b>]
+    B --> D[Performance & Health<br/><b>Execution Plans / Indexes / Partitioning</b>]
+    B --> E[Analytics & BI<br/><b>Power BI / Financial Auditing</b>]
 ```
 
-- **Clean Code & Architecture**: Domain-Driven Design (DDD), Modular Monoliths & Microservices, Design Patterns, SOLID Principles & Test-Driven Development (TDD).
-- **Scalability & Performance**: Caching strategies (Redis), asynchronous queues, database query optimization, and lazy-loading frontends.
-- **Enterprise Security**: Role-Based Access Control (RBAC), OAuth2 / JWT authentication, data encryption, and OWASP best practices.
-- **Continuous Delivery**: Fully automated CI/CD pipelines, automated testing, containerization with Docker, and cloud orchestrations.
+<div align="justify">
+
+- **Advanced Database Programming (T-SQL & PL/pgSQL)**: Implementation of complex business logic directly at the database engine level using Stored Procedures, Triggers, Views, CTEs, and User-Defined Functions for transaction control and real-time data audit.
+- **Performance Tuning & Optimization**: Execution Plan analysis, index defragmentation, index design strategies (Clustered, Non-Clustered, Covering, Filtered Indexes), query refactoring, deadlock resolution, and statistics maintenance.
+- **Data Modeling & Architecture**: Conceptual, Logical, and Physical Data Modeling (DER/MER), relational normalization (1NF through 3NF), foreign key cascading policies, and constraint validations.
+- **Transactional Reliability & Security**: ACID compliance, transaction isolation levels, concurrency management, automated backup strategies, disaster recovery routines, and fine-grained data permissions.
+- **Business Intelligence & Analytics**: Extraction of business metrics, real-time KPI reporting, financial transaction auditing, and executive dashboards using **Microsoft Power BI**.
+
+</div>
 
 ---
 
 ## 🛠️ Technical Arsenal
 
 <details open>
-<summary><b>⚡ Languages & Core Runtimes</b></summary>
+<summary><b>🗄️ Database Systems, DBA & Data Engineering</b></summary>
+<br/>
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL_&_Procedures-00599C?style=flat-square&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling_(DER/MER)-2496ED?style=flat-square&logo=diagram&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI_Analytics-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend, APIs & Distributed Architecture</b></summary>
+<br/>
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_Web_APIs-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![REST & Microservices](https://img.shields.io/badge/REST_APIs_&_Microservices-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Frontend, Mobile & UI/UX</b></summary>
 <br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🌐 Frontend & Mobile Engineering</b></summary>
-<br/>
-
 ![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5 & CSS3](https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend, APIs & Frameworks</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white)
-![REST & GraphQL](https://img.shields.io/badge/REST_&_GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database, Caching & Message Brokers</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🚀 DevOps, Cloud & Infrastructure</b></summary>
+<summary><b>🚀 DevOps, Infrastructure, Cloud & Automation</b></summary>
 <br/>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_Servers-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-742774?style=flat-square&logo=microsoft&logoColor=white)
+![Git & Postman](https://img.shields.io/badge/Git_&_Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </details>
 
 ---
 
-## 💼 Featured Engineering & Production Systems
+## 💼 Featured Engineering & Production Systems (Projetos em Destaque)
 
-| Project | Domain / Scope | Tech Stack | Architectural Highlights |
+| Project / System | Architecture & Scope | Tech Stack | Key Database & Engineering Highlights |
 | :--- | :--- | :--- | :--- |
-| **[Central-Academica](https://github.com/SingeloDux/Central-Academica)** | Academic Management Platform | `PHP` `Laravel` `MySQL` `Blade` | Built scalable modular architecture, role management (RBAC), student records automation, and report pipelines. |
-| **Print4You Ecosystem: StockManager** | Enterprise Mobile Inventory | `Flutter` `Dart` `REST API` | Real-time barcode & stock tracking with offline synchronization and optimized data storage. |
-| **Print4You Ecosystem: Portal Stock** | Web Analytics & Inventory Hub | `React` `Node.js` `PostgreSQL` | High-throughput inventory control dashboard with real-time stock status and transaction logs. |
-| **Print4You Ecosystem: Mobile & Web Toolkit** | Cross-Platform Operations Suite | `Flutter` `TypeScript` `Docker` | Unified operational toolkit providing seamless workflows between field operators and management. |
-| **Joshua Solution Development** | Enterprise Tech Solutions | `Fullstack Multi-Cloud` | Technical leadership, client systems architecture, software engineering consultancy & custom platform delivery. |
+| **Portal de Pedidos & Workflow (Print4You)** | Enterprise Order & Workflow Control System | `C#` `.NET` `SQL Server` `Laravel` `REST APIs` | Team workflow automation with **T-SQL Triggers & Stored Procedures** in SQL Server, complete transactional auditability and real-time event notifications. |
+| **Enterprise Web APIs & Módulo de Serviços** | Layered Backend & Relational Persistence | `C#` `ASP.NET Core` `SQL Server` `T-SQL` | Robust layered API architecture with business rule validations, transactional persistence, and microservices integration. |
+| **APPStock (Print4You)** | Real-Time Inventory & Auditing Hub | `C#` `.NET` `SQL Server` `MySQL` `REST API` | Stock movements audit module, historical logs, minimum stock alert triggers, and high-performance relational queries. |
+| **Credium Smart (CodeForge Dev)** | Financial SaaS Microcredit & Amortization | `PHP` `Laravel` `MySQL` `PostgreSQL` `REST APIs` | Financial calculation engine with strict interest rate amortizations, transactional audit trails, and multi-tenant persistence. |
+| **Módulo de Gestão Acadêmica (CodeForge / Central)** | Academic & Student Records Automation | `Python` `PHP` `Laravel` `MySQL` `Microservices` | Comprehensive student lifecycle management, automated report generation, RBAC security, and decoupled microservices. |
+| **Business Intelligence & Analytics Hub** | Operational & Financial Reporting Suite | `Power BI` `SQL Server` `DAX` `ETL` | Real-time executive dashboards, automated financial auditing pipelines, and operational health monitoring. |
+| **Joshua Solution Development Ecosystem** | Multi-tenant SaaS & AI Solutions | `C#` `PHP` `JavaScript` `AI APIs` `SQL Server` | Technical founder delivering custom platforms, including SaaS booking systems (*Lavagem Auto*) and AI Text-to-Speech platforms (*Ouvir Texto*). |
+
+---
+
+## 📜 Certifications & Continuous Learning
+
+- 🎓 **Engenharia de Software (Informática Aplicada)** — Universidade Pedagógica de Maputo *(Graduando)*
+- 🏛️ **Administrador de Banco de Dados (DBA)** — Instituto Federal de Educação, Ciência e Tecnologia (IFRS) *(200 Horas · 2025)*
+- ⚡ **Automação de Sistemas** — IFRS *(30 Horas · 2026)*
+- 🤖 **AI Fluency: Framework & Foundations** — Anthropic *(2026)*
+- 🔄 **Copilot Studio · Planner · Power Automate** — Microsoft *(2026)*
+- 💻 **Informática Avançada e Programação Web** — Unitec Academy *(2024)*
 
 ---
 
@@ -162,13 +174,13 @@ flowchart LR
 
 <div align="center">
 
-Whether you're looking for a **Senior Fullstack Engineer**, **Technical Lead**, or strategic **Software Architecture Consulting**, let's build something remarkable together!
+Whether you're looking for a **Senior Fullstack Engineer**, **Database Administrator (DBA)**, or **Enterprise Systems Architect**, let's build robust solutions together!
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://johnjoshua-dev.github.io/JosueSitoe.github.io/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@joshuasolution.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/josue-sitoe-programmer)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuerafaelisito@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnJoshua-Dev)
 
 <br/>
